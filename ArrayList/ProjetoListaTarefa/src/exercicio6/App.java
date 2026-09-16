@@ -26,7 +26,7 @@ public class App {
 		for(String t : tarefas) {
 			System.out.println( t );
 		}
-		
+		 sc.close();
 	}
 
 }
